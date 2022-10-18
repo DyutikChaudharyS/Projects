@@ -1,0 +1,9 @@
+pandas
+matplotlib
+XGBoost
+numpy
+opencv-python
+keras
+tensorflow
+seaborn
+sklearn
